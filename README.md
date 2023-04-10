@@ -1,4 +1,4 @@
-### Hi there 👋
+### 프론트 개발자 이정우입니다
 
 <!--
 **wldnr1208/wldnr1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

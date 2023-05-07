@@ -1,10 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20JunngWoo's%20GitHub&fontSize=40)
 
 <div>
+      <h3>📔 GitHub Card</h3>
+</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wldnr1208)](https://github.com/anuraghazra/github-readme-stats)
+
+<div>
       <h3>🛠 Tech Stack </h3>
 </div>
 <hr/>
-<p1>Frontend</p>
+
 <div>      
  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"> 
@@ -21,3 +26,4 @@
  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
  <img src="https://img.shields.io/badge/vercel-FD5750?style=for-the-badge&logo=vercel&logoColor=white">
 </div>
+

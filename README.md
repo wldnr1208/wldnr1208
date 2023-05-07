@@ -3,7 +3,7 @@
 <div>
       <h3>📔 GitHub Card</h3>
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wldnr1208)](https://github.com/anuraghazra/github-readme-stats)
+[![wldnr1208's GitHub stats](https://github-readme-stats.vercel.app/api?username=wldnr1208)](https://github.com/wldnr1208/github-readme-stats)
 
 <div>
       <h3>🛠 Tech Stack </h3>

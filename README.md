@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome%20JunngWoo's%20GitHub&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=270&section=header&text=Welcome%20JunngWoo's%20GitHub&fontSize=40)
 
 <div>
       <h3>🛠 Tech Stack </h3>

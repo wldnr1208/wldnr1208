@@ -5,11 +5,13 @@
 </div>
 <hr/>
 <div>      
- <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
- <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> 
+ <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+ <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"> 
  <img src="https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
  <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+      <br/>
  <img src="https://img.shields.io/badge/axios-F36633?style=for-the-badge&logo=axios&logoColor=white"> 
- <img src="https://img.shields.io/badge/yarn-#FFB3C7?style=for-the-badge&logo=yarn&logoColor=white"> 
-
+ <img src="https://img.shields.io/badge/yarn-FFB3C7?style=for-the-badge&logo=yarn&logoColor=white">
+ <img src="https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
+ <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 </div>

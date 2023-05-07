@@ -1,10 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20JunngWoo's%20GitHub&fontSize=40)
-
+<br>
+<br>
+<br>
 <div>
       <h3>📔 GitHub Card</h3>
 </div>
-[![wldnr1208's GitHub stats](https://github-readme-stats.vercel.app/api?username=wldnr1208)](https://github.com/wldnr1208/github-readme-stats)
-
+<hr/>
+<img src="https://github-readme-stats.vercel.app/api?username=wldnr1208&show_icons=true&theme=dracula">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wldnr1208&layout=compact&theme=radical">
+<br>
+<br>
 <div>
       <h3>🛠 Tech Stack </h3>
 </div>
@@ -27,3 +32,17 @@
  <img src="https://img.shields.io/badge/vercel-FD5750?style=for-the-badge&logo=vercel&logoColor=white">
 </div>
 
+<br>
+<br>
+<div>
+      <h3>✉️ Contect me </h3>
+</div>
+<hr/>
+<a herf = "jw1208159@gmail.com">
+  <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<br>
+<br>
+<br>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer)

@@ -40,7 +40,7 @@
       <h3>✉️ Contect me </h3>
 </div>
 <hr/>
-<p>제 연락처는: jw1208159@gmail.com 입니다.</p>
+<p>제 연락처는: <a href="jw1208159@gmail.com"/>jw1208159@gmail.com 입니다.</p>
 <br>
 <br>
 <br>

@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20JunngWoo's%20GitHub&fontSize=40)
 <br>
+<p>👨🏻‍💻 프론트 개발을 꾸준히 하고 있습니다.</p>
+<p>📝 Next.js와 TypeScript를 이용한 포트폴리오 사이트입니다. (https://portfolio.wldnr1208.vercel.app/)</p>
 <br>
 <br>
 <div>
@@ -38,9 +40,7 @@
       <h3>✉️ Contect me </h3>
 </div>
 <hr/>
-<a herf = "jw1208159@gmail.com">
-  <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<p>제 연락처는: <a>jw1208159@gmail.com</a></p>
 <br>
 <br>
 <br>

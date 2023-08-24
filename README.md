@@ -10,7 +10,7 @@
 <hr/>
 <img src="https://github-readme-stats.vercel.app/api?username=wldnr1208&show_icons=true&theme=dracula">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wldnr1208&layout=compact&theme=radical">
-      <p>제 이메일은: <address@example.com> 입니다. </p>
+      제 이메일은: <address@example.com> 입니다.
 <br>
 <br>
 <div>

@@ -41,7 +41,7 @@
       <h3>✉️ Contect me </h3>
 </div>
 <hr/>
- <img src = https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jw1208159@gmail.com>(mailto:wldnr1208159@gmail.com)<br>
+ <img src = https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jw1208159@gmail.com (mailto:wldnr1208159@gmail.com)>
 <br>
 <br>
 

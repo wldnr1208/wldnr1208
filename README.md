@@ -37,12 +37,11 @@
 
 <br>
 <br>
-<!-- <div>
+<div>
       <h3>✉️ Contect me </h3>
 </div>
 <hr/>
-<p>제 연락처는: <a href="jw1208159@gmail.com"/>jw1208159@gmail.com</p> -->
-<br>
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jw1208159@gmail.com)](mailto:wldnr1208159@gmail.com)<br>
 <br>
 <br>
 

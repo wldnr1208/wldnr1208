@@ -10,10 +10,10 @@
       <h3>📔 GitHub Card</h3>
 </div>
 <hr/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wldnr1208&layout=compact&theme=radical"
+<br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=wldnr1208&show_icons=true&theme=dracula">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wldnr1208&layout=compact&theme=radical"
-<br>
-<br>
 <div>
       <h3>🛠 Tech Stack </h3>
 </div>

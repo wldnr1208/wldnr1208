@@ -22,25 +22,9 @@
  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap" />
-  </a>
- </p>
- <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwind,styledcomponents,emotion,sass,figma" />
-  </a>
- </p>
- <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,redux,nextjs,firebase,nodejs" />
-  </a>
- </p>
- <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=npm,yarn,vercel,babel,netlify" />
-  </a>
- </p>
- <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,gradle,postman" />    
   </a>
  </p>

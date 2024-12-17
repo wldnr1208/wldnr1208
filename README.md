@@ -19,15 +19,21 @@
 </div>
 <hr/>
 <div>      
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=tailwind,styledcomponents,emotion,sass,figma" />
-    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,firebase,nodejs" />
-    <img src="https://skillicons.dev/icons?i=npm,yarn,vercel,babel,netlify" />
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,gradle,postman" />    
-  </a>
- </p>
+ <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+ <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"> 
+ <img src="https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+ <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+ <br/>
+ <img src="https://img.shields.io/badge/axios-F36633?style=for-the-badge&logo=axios&logoColor=white"> 
+ <img src="https://img.shields.io/badge/yarn-FFB3C7?style=for-the-badge&logo=yarn&logoColor=white">
+ <img src="https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
+ <img src="https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=white">
+ <br/>
+ <img src="https://img.shields.io/badge/babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white">
+ <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+ <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
+ <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">    
+ <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=vercel&logoColor=white">
 </div>
 
 <br>

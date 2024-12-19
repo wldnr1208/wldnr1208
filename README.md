@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20JunngWoo's%20GitHub&fontSize=40)
 <br>
-<p>👨🏻‍💻 프론트 개발을 꾸준히 하고 있습니다.</p>
-<p>📝 Next.js와 TypeScript를 이용한 포트폴리오 사이트입니다. (https://portfolio.wldnr1208.vercel.app/)</p>
-<p>🎆 멋진 웹 페이지를 제작하는 개발자가 되려고 노력합니다.</p>
+<p>👨🏻‍💻 프론트 개발자로 1년간 재직했습니다.</p>
+<p>📝 풀스택 개발자로 나아가기 위해 Kotlin&Spring을 배우고 있습니다.</p>
+<p>🎆 인터렉티브한 웹 페이지를 제작하는 개발자가 되고 싶습니다..</p>
 <p>💡  새로운 기술에 도전하는 것을 즐겨합니다.</p>
 <br>
 <br>
@@ -32,6 +32,7 @@
  <img src="https://img.shields.io/badge/babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white">
  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
+ <br/>
  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">    
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=vercel&logoColor=white">
 </div>

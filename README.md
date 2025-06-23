@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20JunngWoo's%20GitHub&fontSize=40)
 <br>
-<p>👨🏻‍💻 프론트 개발자로 1년간 재직했습니다.</p>
+<p>👨🏻‍💻 프론트 개발자로 재직중입니다.</p>
 <p>📝 풀스택 개발자로 나아가기 위해 Kotlin&Spring을 배우고 있습니다.</p>
 <p>🎆 인터렉티브한 웹 페이지를 제작하는 개발자가 되고 싶습니다.</p>
 <p>💡  새로운 기술에 도전하는 것을 즐겨합니다.</p>
